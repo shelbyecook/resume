@@ -1,0 +1,84 @@
+body {
+	font: 16px Verdana, Sans-Serif;
+	background: #6f88b9;
+}
+
+#profile
+{
+    width: 35%;
+    float: right;
+}
+.profile
+{
+    width: 100%;
+    height: 100%;
+}
+#container 
+{
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+.date 
+{
+	float: right;
+}
+
+ 
+{
+	border-bottom: 1px solid #fafafa;
+}
+
+h4 
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#content-education
+h3
+{
+    border-bottom: 3px solid #fafafa;
+}
+#content-experience
+h3
+{
+    border-bottom: 3px solid #fafafa;
+}
+#content-TCE
+li
+{
+    list-style: square
+}
+#content-dispensary
+li
+{
+    list-style: square
+}
+#content-clinic
+li
+{
+    list-style: square
+}
+#content-school
+li
+{
+    list-style: square
+}
+#content-contact
+h1
+{
+    font: 70px Verdana, Sans-Serif;
+    font-weight: bold;
+	letter-spacing: -2px;
+}
+h2
+{
+    font: 16px Verdana, Sans-Serif;
+    
+}
+#content-summary
+h3
+{
+    border-bottom: 3px solid #fafafa;
+}
